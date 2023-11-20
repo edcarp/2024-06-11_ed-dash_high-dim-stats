@@ -44,7 +44,7 @@ This is a short course aimed at familiarising learners with statistical and comp
 
 **Ed-DaSH**
 
-Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Biosciences. The [team](https://edcarp.github.io/Ed-DaSH/ed_dash_team.html) has developed workshops using [The Carpentries](https://carpentries.org/) platform on the following topics. See [workshops](https://edcarp.github.io/Ed-DaSH/workshops.html) for dates and registration details. All workshops will be delivered remotely.
+Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Biosciences. The [team](https://edcarp.github.io/Ed-DaSH/ed_dash_team.html) has developed workshops using [The Carpentries](https://carpentries.org/) platform on the following topics. See [workshops](https://edcarp.github.io/Ed-DaSH/workshops.html) for dates and registration details. This ED-DaSH workshop has been adopted into the Edinburgh Carpentries DUSC programme.
 
 {% comment %}
 EVENTBRITE
